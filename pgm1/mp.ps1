@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://github.com/ejavier8205/vbsScripts/blob/master/Open%20Calculator.vbs" -OutFile c:\file.ext
